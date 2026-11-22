@@ -1,0 +1,24 @@
+{
+  "botToken": "1234567890:ВСТАВЬ_ТОКЕН_ОТ_BOTFATHER",
+
+  "channel": {
+    "id": "@your_channel",
+    "url": "https://t.me/your_channel",
+    "title": "наш канал"
+  },
+
+  "serverName": "",
+
+  "api": {
+    "host": "0.0.0.0",
+    "port": 8085,
+    "secret": "ЗАМЕНИ_НА_ДЛИННУЮ_СЛУЧАЙНУЮ_СТРОКУ",
+    "allowedIps": [],
+    "trustProxy": false
+  },
+
+  "recheckHours": 6,
+  "codeAttemptsPer10Min": 6,
+
+  "texts": {}
+}
